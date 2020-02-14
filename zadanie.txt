@@ -1,0 +1,25 @@
+Projekt z przedmiotu Statystyka z językiem R. Zadanie proszę zamieścić na swoim githubie oraz dostarczyć w formie drukowanej zgodnie w teminami na wirtualnej uczelni.
+
+1. Przejdź do banku danych Głównego Urzędu Statystycznego.
+2. Rozwiń liste CENY -> PRZECIĘTNE CENY DETALICZNE TOWARÓW I USŁUG KONSUMPCYJNYCH -> CENY DETALICZNE WYBRANYCH TOWARÓW I USŁUG KONSUMPCYJNYCH. Następnie zjedź na dół strony i kliknij "Dalej".
+3. Zaznacz dany rok, wszystkie miesiące, wylosowane produkty, a następnie cenę i naciśnij "Dalej".
+4. Zaznacz wszystkie wojewódźtwa i naciśnij "Dalej".
+5. Pobierz dane za pomocą przycisku "Eksport" jako CSV - tablicę wielowymiarową. 
+6. Wykonaj powyższe instrukcje (punkty 3-6) dla kolejnych roczników (niemożliwe może okazać się zaznaczenie wszystkich roczników ze względu na rozmiar danych, ale możesz zaproponować rozwiązanie tego problemu lub zautomatyzowanie procesu pobierania danych).
+7. Na podstawie danych dotyczących wylosowanych towarów i usług wykonaj badanie pt. "Zmiana cen detalicznych wybranych towarów i usług konsumpcyjnych w Polsce w latach 2006-2019". 
+8. Sprawozdanie z badania powinno w jak nalepszy i najbardziej przejrzysty sposób przedstawiać zmiany cen wybranych towarów i usług z podziałem na wojewódźtwa dla lat 2006-2019. Przemyśl jak rozwiązać problem braku danych dla pewnych roczników. Możesz korzystać z dowolnych typów wykresów - słupkowych, świecowych, kołowych, punktowych, liniowych... Twoje dane powinny być opisane miarami średnimi i miarami dyspersji.
+5. Odpowiedz na pytanie - gdzie i kiedy w zadanych ramach czasowych życie w Polsce było najtańsze a gdzie i kiedy było najdroższe w odniesieniu do pozostałych regionów kraju? Jaki wpływ na ceny miało wynagrodzenie minimalne w danym roku? Czy widać zmiany w trendach cen w okresie wprowadzenia w Polsce programów socjalnych (np. program 500+)?
+6. Co jeszcze możesz wywnioskować z tego zbioru danych?
+7. Sprawozdanie powinno być zakończone własnymi wnioskami. 
+ 
+Lista wybranych towarów i usług:
+14. Karp świeży
+16. Mleko krowie spożywcze o zawartości tłuszczu 2-2,5% za 1l
+21. Jaja kurze świerze (chów klatkowy lub ściółkowy) za 1 szt
+22. Masło świeże o zawartości tłuszczu ok. 82,5% za 200 g
+28. Marchew - za 1 kg
+34. Herbata czarna, liściasta - za 100g
+52. Ciepła woda - za 1m3
+55. Olej napędowy - za 1l
+56. Bilet do kina
+57. Mydło toaletowe
